@@ -45,8 +45,7 @@ monte_carlo_method(f, a, b, 1_000_000)
 
     2.000138945205092
 
-```python
-%%html
+```html
 <iframe src="https://www.wolframalpha.com/input/?i=integral+of+sinx+from+0+to+pi" width="800" height="400"></iframe>
 <iframe src="https://www.wolframalpha.com/input/?i=integral+of+sinx+from+0+to+pi" width="800" height="400"></iframe>
 ```
@@ -128,9 +127,7 @@ trapezoidal(f, a, b, 10_000_000)
 
     -381.9041632572264
 
-```python
-%%html
-
+```html
 <h4>$$ \int_{0}^{4.5}x^{2}sin(x)^{3}dx $$</h4>
 <table>
     <tr>
