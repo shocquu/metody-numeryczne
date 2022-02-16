@@ -1,5 +1,7 @@
 ## Biblioteka algorytmów do rozwiązywania metod numerycznych
 
+### Przykładowy fragment z Jupyter'a
+
 ```python
 import math
 
@@ -126,4 +128,3 @@ trapezoidal(f, a, b, 10_000_000)
 ```
 
     -381.9041632572264
-```
