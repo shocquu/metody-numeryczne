@@ -127,7 +127,8 @@ trapezoidal(f, a, b, 10_000_000)
 
     -381.9041632572264
 ```
-```html
+```python
+%%html
 <h4>$$ \int_{0}^{4.5}x^{2}sin(x)^{3}dx $$</h4>
 <table>
     <tr>
