@@ -48,9 +48,9 @@ monte_carlo_method(f, a, b, 1_000_000)
 ```python
 %%html
 <iframe src="https://www.wolframalpha.com/input/?i=integral+of+sinx+from+0+to+pi" width="800" height="400"></iframe>
+<iframe src="https://www.wolframalpha.com/input/?i=integral+of+sinx+from+0+to+pi" width="800" height="400"></iframe>
 ```
 
-<iframe src="https://www.wolframalpha.com/input/?i=integral+of+sinx+from+0+to+pi" width="800" height="400"></iframe>
 
 ```python
 %precision 15
